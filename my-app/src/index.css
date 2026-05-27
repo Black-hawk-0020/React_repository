@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+body{
+    padding: 5px;
+}
+div{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+div >ul> li{
+    display: flex;
+ }
