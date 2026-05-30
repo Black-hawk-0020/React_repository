@@ -1,1 +1,6 @@
 @import "tailwindcss";
+ul{
+    width: 400px;
+    background-color: aqua;
+    margin: 10px;
+}
